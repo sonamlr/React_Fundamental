@@ -10,4 +10,4 @@ function Pokedex(){
     )
 }
 
-export default Pokedex
+export default Pokedex 

@@ -11,4 +11,4 @@ function Pokemon( { name, image, id } ){
     )
 }
 
-export default Pokemon
+export default Pokemon 
